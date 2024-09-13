@@ -7,7 +7,7 @@
 This Assignment focusses on a controller for a steering mechanism, with goal to reach the home position that is (0,0). The results are shown using Graphs of appropriate data and a simulation of a basic bot on Gazebo.
 
 ### Current Status:
--The gazebo simulation of the bot using a URDF file is working. 
--The integration of the controller and the bot is still left. 
--Currently ROS2 Humble is being used.
+-The gazebo simulation of the bot using a URDF file is working. <br>
+-The integration of the controller and the bot is still left. <br>
+-Currently ROS2 Humble is being used. <br>
 ----------------------------------------------Ayush Prasad(13-09-2024)
